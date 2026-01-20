@@ -1,0 +1,51 @@
+year,subject,question,marks,topic
+2021,CS,Explain Dijkstra's algorithm with example,10,Algorithms
+2021,CS,What is normalization in DBMS?,5,Databases
+2021,CS,Explain process scheduling in OS,8,Operating Systems
+2021,CS,Describe TCP/IP protocol layers,6,Networking
+2021,CS,Explain regression vs classification in ML,8,Machine Learning
+2021,CS,Explain BFS and DFS algorithms,10,Algorithms
+2021,CS,What is ACID property in DBMS?,5,Databases
+2021,CS,Explain deadlock detection in OS,8,Operating Systems
+2021,CS,Describe HTTP vs HTTPS,6,Networking
+2021,CS,Explain supervised vs unsupervised learning,8,Machine Learning
+2022,CS,Explain Prim’s algorithm,10,Algorithms
+2022,CS,What is indexing in DBMS?,5,Databases
+2022,CS,Explain memory management in OS,8,Operating Systems
+2022,CS,Describe DNS protocol,6,Networking
+2022,CS,Explain decision trees in ML,8,Machine Learning
+2022,CS,Explain Kruskal’s algorithm,10,Algorithms
+2022,CS,What is foreign key in DBMS?,5,Databases
+2022,CS,Explain virtual memory in OS,8,Operating Systems
+2022,CS,Describe SMTP protocol,6,Networking
+2022,CS,Explain clustering in ML,8,Machine Learning
+2023,CS,Explain Bellman-Ford algorithm,10,Algorithms
+2023,CS,What is join operation in DBMS?,5,Databases
+2023,CS,Explain paging in OS,8,Operating Systems
+2023,CS,Describe FTP protocol,6,Networking
+2023,CS,Explain random forests in ML,8,Machine Learning
+2023,CS,Explain Floyd-Warshall algorithm,10,Algorithms
+2023,CS,What is transaction in DBMS?,5,Databases
+2023,CS,Explain threads in OS,8,Operating Systems
+2023,CS,Describe ARP protocol,6,Networking
+2023,CS,Explain SVM in ML,8,Machine Learning
+2024,CS,Explain A* search algorithm,10,Algorithms
+2024,CS,What is primary key in DBMS?,5,Databases
+2024,CS,Explain scheduling algorithms in OS,8,Operating Systems
+2024,CS,Describe POP3 protocol,6,Networking
+2024,CS,Explain neural networks in ML,8,Machine Learning
+2024,CS,Explain dynamic programming algorithm,10,Algorithms
+2024,CS,What is normalization forms in DBMS?,5,Databases
+2024,CS,Explain file systems in OS,8,Operating Systems
+2024,CS,Describe ICMP protocol,6,Networking
+2024,CS,Explain reinforcement learning,8,Machine Learning
+2025,CS,Explain greedy algorithms,10,Algorithms
+2025,CS,What is stored procedure in DBMS?,5,Databases
+2025,CS,Explain distributed systems in OS,8,Operating Systems
+2025,CS,Describe DHCP protocol,6,Networking
+2025,CS,Explain deep learning models,8,Machine Learning
+2025,CS,Explain hashing algorithms,10,Algorithms
+2025,CS,What is cursor in DBMS?,5,Databases
+2025,CS,Explain synchronization in OS,8,Operating Systems
+2025,CS,Describe VPN protocol,6,Networking
+2025,CS,Explain ensemble learning,8,Machine Learning

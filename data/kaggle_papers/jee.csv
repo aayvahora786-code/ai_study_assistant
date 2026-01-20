@@ -1,0 +1,51 @@
+year,subject,question,marks,topic
+2021,Maths,Find the derivative of sin(x),4,Calculus
+2021,Physics,Explain Young's double slit experiment,6,Optics
+2021,Chemistry,Write the electronic configuration of Fe,3,Periodic Table
+2021,Maths,Solve ∫(2x) dx,4,Integration
+2021,Physics,Explain laws of motion,5,Mechanics
+2021,Chemistry,Define molarity,3,Solutions
+2021,Maths,Solve log equations,4,Algebra
+2021,Physics,Explain Archimedes principle,4,Mechanics
+2021,Chemistry,Define Avogadro’s law,3,Gas Laws
+2021,Maths,Solve quadratic equation x^2+3x+2=0,4,Algebra
+2022,Maths,Solve ∫(x^2) dx,5,Integration
+2022,Physics,Explain thermodynamics laws,6,Thermodynamics
+2022,Chemistry,Define hybridization,4,Organic Chemistry
+2022,Maths,Solve ∫(cosx) dx,4,Integration
+2022,Physics,Explain photoelectric effect,6,Modern Physics
+2022,Chemistry,Explain ionic bonding,4,Chemical Bonding
+2022,Maths,Solve ∫(tanx) dx,5,Integration
+2022,Physics,Explain gravitation law,4,Mechanics
+2022,Chemistry,Define acids and bases,4,Acids and Bases
+2022,Maths,Solve ∫(secx) dx,5,Integration
+2023,Maths,Solve ∫(lnx) dx,5,Integration
+2023,Chemistry,Explain chemical equilibrium,4,Physical Chemistry
+2023,Physics,Explain electromagnetic induction,6,Electromagnetism
+2023,Maths,Solve ∫(e^x) dx,5,Integration
+2023,Chemistry,Define hybridization,4,Organic Chemistry
+2023,Physics,Explain conservation of energy,5,Mechanics
+2023,Maths,Solve ∫(cotx) dx,5,Integration
+2023,Chemistry,Explain pH scale,4,Acids and Bases
+2023,Physics,Explain electromagnetic waves,6,Electromagnetism
+2023,Maths,Solve ∫(1/x) dx,5,Integration
+2024,Maths,Solve ∫(sinx) dx,4,Integration
+2024,Chemistry,Explain chemical bonding,4,Chemical Bonding
+2024,Physics,Explain laws of gravitation,5,Mechanics
+2024,Maths,Solve ∫(cos2x) dx,5,Integration
+2024,Chemistry,Define molar mass,3,Physical Chemistry
+2024,Physics,Explain conservation of momentum,5,Mechanics
+2024,Maths,Solve ∫(x^3) dx,5,Integration
+2024,Chemistry,Explain acids and bases,4,Acids and Bases
+2024,Physics,Explain electromagnetic spectrum,6,Electromagnetism
+2024,Maths,Solve ∫(sec^2x) dx,5,Integration
+2025,Maths,Solve ∫(tan^2x) dx,5,Integration
+2025,Chemistry,Explain chemical kinetics,4,Physical Chemistry
+2025,Physics,Explain nuclear fission,6,Nuclear Physics
+2025,Maths,Solve ∫(cos^3x) dx,5,Integration
+2025,Chemistry,Define hybrid orbitals,4,Organic Chemistry
+2025,Physics,Explain superconductivity,6,Modern Physics
+2025,Maths,Solve ∫(sin^2x) dx,5,Integration
+2025,Chemistry,Explain ionic equilibrium,4,Physical Chemistry
+2025,Physics,Explain wave optics,6,Optics
+2025,Maths,Solve ∫(x ln x) dx,6,Integration

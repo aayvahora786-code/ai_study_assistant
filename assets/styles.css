@@ -1,0 +1,166 @@
+/* -----------------------------
+   Font Imports
+----------------------------- */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Poppins:wght@500;600&display=swap');
+
+/* -----------------------------
+   Global Theme
+----------------------------- */
+:root {
+  --accent: #2563eb;
+  --accent-hover: #1d4ed8;
+  --bg: #f8fafc;
+  --card: #ffffff;
+  --text: #1e293b;
+  --muted: #64748b;
+  --border: #e2e8f0;
+  --highlight: #f59e0b;
+  --shadow-sm: 0 2px 6px rgba(0,0,0,0.06);
+  --shadow-md: 0 8px 24px rgba(0,0,0,0.08);
+}
+
+html, body, .stApp {
+  background-color: var(--bg);
+  color: var(--text);
+  font-family: 'Inter', sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+/* -----------------------------
+   Headings
+----------------------------- */
+h1, h2, h3 {
+  font-family: 'Poppins', sans-serif;
+  color: var(--text);
+  letter-spacing: 0.3px;
+}
+h1 { font-size: 2rem; }
+h2 { font-size: 1.5rem; }
+h3 { font-size: 1.15rem; }
+
+/* -----------------------------
+   Sidebar
+----------------------------- */
+section[data-testid="stSidebar"] {
+  background: linear-gradient(180deg, #f1f5f9, #e2e8f0);
+  border-right: 1px solid var(--border);
+}
+section[data-testid="stSidebar"] h1,
+section[data-testid="stSidebar"] h2,
+section[data-testid="stSidebar"] h3 {
+  color: var(--accent);
+}
+section[data-testid="stSidebar"] p,
+section[data-testid="stSidebar"] span {
+  color: var(--text) !important;
+  font-weight: 500;
+}
+section[data-testid="stSidebar"] strong {
+  color: var(--highlight);
+}
+
+/* -----------------------------
+   Buttons
+----------------------------- */
+.stButton > button {
+  background: linear-gradient(135deg, var(--accent), var(--accent-hover));
+  color: white;
+  border-radius: 10px;
+  padding: 0.65rem 1.2rem;
+  font-weight: 600;
+  font-family: 'Poppins', sans-serif;
+  border: none;
+  box-shadow: var(--shadow-sm);
+  transition: all 0.25s ease;
+}
+.stButton > button:hover {
+  transform: translateY(-1px) scale(1.03);
+  box-shadow: var(--shadow-md);
+}
+
+/* -----------------------------
+   Cards / Containers
+----------------------------- */
+.block-container {
+  padding-top: 2rem;
+}
+.flashcard,
+.stExpander,
+[data-testid="stTable"] {
+  background: var(--card);
+  border-radius: 14px;
+  border: 1px solid var(--border);
+  box-shadow: var(--shadow-sm);
+}
+
+/* -----------------------------
+   File Uploader
+----------------------------- */
+.stFileUploader {
+  background: var(--card);
+  border-radius: 14px;
+  padding: 1rem;
+  box-shadow: var(--shadow-sm);
+}
+
+/* -----------------------------
+   Tabs
+----------------------------- */
+.stTabs [role="tab"] {
+  font-weight: 600;
+  font-family: 'Poppins', sans-serif;
+  padding: 0.6rem 1rem;
+}
+.stTabs [aria-selected="true"] {
+  color: var(--highlight);
+  border-bottom: 3px solid var(--highlight);
+}
+
+/* -----------------------------
+   Transcript Lines
+----------------------------- */
+.transcript-line {
+  background: #f1f5f9;
+  padding: 0.6rem 0.8rem;
+  border-left: 4px solid var(--accent);
+  border-radius: 6px;
+  margin-bottom: 0.4rem;
+}
+
+/* -----------------------------
+   Flashcards
+----------------------------- */
+.flashcard-question {
+  font-weight: 600;
+  color: var(--accent);
+  margin-bottom: 0.3rem;
+}
+.flashcard-answer {
+  font-size: 0.95rem;
+}
+
+/* -----------------------------
+   Mini Game
+----------------------------- */
+.mini-game {
+  background: #f8fafc;
+  border-radius: 12px;
+  padding: 1rem;
+  border: 1px dashed var(--border);
+}
+
+/* -----------------------------
+   Inputs
+----------------------------- */
+input, textarea, select {
+  border-radius: 8px !important;
+}
+
+/* -----------------------------
+   Alerts
+----------------------------- */
+.stAlert {
+  border-radius: 12px;
+  box-shadow: var(--shadow-sm);
+}

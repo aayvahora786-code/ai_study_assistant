@@ -1,0 +1,46 @@
+year,subject,question,marks,topic
+2021,Physics,Explain Ohm's Law with example,5,Electricity
+2021,Chemistry,Define Molarity and Molality,3,Solutions
+2021,Maths,Solve the quadratic equation x^2 - 5x + 6 = 0,4,Algebra
+2021,Biology,Describe the structure of DNA,5,Genetics
+2021,English,Write a short note on Shakespeare's contribution,5,Literature
+2022,Physics,State Newton's laws of motion,4,Mechanics
+2022,Chemistry,Explain the periodic table trends,3,Periodic Table
+2022,Maths,Find the roots of x^2+2x+1=0,4,Algebra
+2022,Biology,What is photosynthesis?,4,Plant Physiology
+2022,English,Write a summary of “Macbeth”,5,Literature
+2023,Physics,Explain conservation of energy principle,5,Mechanics
+2023,Chemistry,Define pH and its importance,4,Acids and Bases
+2023,Maths,Integrate x^2 from 0 to 3,5,Integration
+2023,Biology,Describe Mendel's law of segregation,4,Genetics
+2023,English,Discuss Romantic poetry features,5,Literature
+2024,Physics,Explain laws of thermodynamics with examples,6,Thermodynamics
+2024,Chemistry,What is ionic bonding?,4,Chemical Bonding
+2024,Maths,Differentiate cos(x),4,Calculus
+2024,Biology,Explain human respiratory system,5,Physiology
+2024,English,Write an essay on Indian independence,6,History
+2025,Physics,Explain electromagnetic induction,6,Electromagnetism
+2025,Chemistry,Define chemical equilibrium,4,Physical Chemistry
+2025,Maths,Solve ∫(tanx) dx,5,Integration
+2025,Biology,Describe human circulatory system,5,Physiology
+2025,English,Discuss features of modern drama,5,Literature
+2021,Physics,Explain Archimedes principle,4,Mechanics
+2021,Chemistry,Define Avogadro’s law,3,Gas Laws
+2021,Maths,Solve log equations,4,Algebra
+2021,Biology,Explain mitosis stages,5,Cell Biology
+2021,English,Write a note on Indian poets,5,Literature
+2022,Physics,Explain wave optics,5,Optics
+2022,Chemistry,Define molarity,3,Solutions
+2022,Maths,Solve ∫(cosx) dx,4,Integration
+2022,Biology,Explain human digestive system,5,Physiology
+2022,English,Discuss Shakespearean tragedies,5,Literature
+2023,Physics,Explain gravitation law,4,Mechanics
+2023,Chemistry,Define acids and bases,4,Acids and Bases
+2023,Maths,Solve ∫(2x) dx,4,Integration
+2023,Biology,Describe human nervous system,5,Physiology
+2023,English,Discuss Indian independence literature,5,History
+2024,Physics,Explain photoelectric effect,6,Modern Physics
+2024,Chemistry,Define hybridization,4,Organic Chemistry
+2024,Maths,Solve ∫(x^2) dx,5,Integration
+2024,Biology,Explain DNA replication,5,Genetics
+2024,English,Discuss Romantic poets,5,Literature
