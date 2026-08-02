@@ -1,0 +1,19 @@
+# Core Application
+streamlit>=1.39.0
+python-dotenv>=1.0.0
+
+# Audio Processing (REQUIRED for Google Speech Recognition)
+SpeechRecognition>=3.10.0
+pydub>=0.25.1
+imageio-ffmpeg>=0.5.1
+
+# Data Analysis & Visualization
+pandas>=2.2.0
+numpy>=1.26.0
+plotly>=5.24.0
+
+# Reporting
+jinja2>=3.1.4
+
+# Hugging Face (for login token)
+huggingface-hub>=0.24.0
